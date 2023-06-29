@@ -1,0 +1,71 @@
+/* Add your CSS styles here */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+      background-color: #333;
+      color: #fff;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    main {
+      margin: 20px;
+    }
+    
+    h1 {
+      font-size: 28px;
+    }
+    
+    p {
+      font-size: 18px;
+      line-height: 1.5;
+    }
+    
+    .project {
+      margin-bottom: 40px;
+    }
+    
+    .project h2 {
+      font-size: 24px;
+      margin-bottom: 10px;
+    }
+    
+    .project p {
+      margin-bottom: 5px;
+    }
+    
+    .project .description {
+      margin-bottom: 20px;
+    }
+    
+    .project .technologies {
+      font-style: italic;
+    }
+    .top {
+        background-image: url(/images/74614850_155758535736724_2089497320306507776_n.jpg);
+        background-size: cover; 
+        background-repeat: no-repeat;
+        background-position: center;
+    }
+
+    .portfolio {
+       font-family: cursive;
+       font-size:50px;
+       color: rgb(255, 255, 255);
+    }
+
+    .about {
+        display: flex;
+    }
+
+    .hobby {
+        display: flex;
+    }
+
+    .socials {
+        display: flex;
+    }
